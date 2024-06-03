@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# CRUD_Entities manager
 
 Documentation
 Table of Contents
