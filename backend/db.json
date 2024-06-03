@@ -1,0 +1,41 @@
+{
+  "entities": [
+    {
+      "id": "bcf1",
+      "name": "Entity1",
+      "coordinate": [
+        -5,
+        10
+      ],
+      "labels": [
+        "labelA",
+        "labelB",
+        "labelE"
+      ]
+    },
+    {
+      "id": "09c0",
+      "name": "Entity2",
+      "coordinate": [
+        3,
+        6
+      ],
+      "labels": [
+        "labelC",
+        "labelD"
+      ]
+    },
+    {
+      "id": "b697",
+      "name": "Entity3",
+      "coordinate": [
+        4,
+        -1
+      ],
+      "labels": [
+        "labelA",
+        "labelC"
+      ]
+    }
+  ]
+}
