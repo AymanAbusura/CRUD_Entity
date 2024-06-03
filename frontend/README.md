@@ -18,7 +18,7 @@ This project is a web application for managing a dataset of two-dimensional name
 
 ## Project Structure
 
-frontendtest/
+- frontendtest/
     - backend/
         - controllers/
             - operations.js
